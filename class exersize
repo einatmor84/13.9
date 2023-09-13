@@ -1,0 +1,9 @@
+//Create class LapTop:
+    // that includes arg:
+    // String color
+    // float Size
+    // String chargerType
+    // int butterySize
+    // and will include functions:
+    // turnOn()  --> print laptop turned on
+    // turnOff() --> print laptop turned off
