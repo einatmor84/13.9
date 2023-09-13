@@ -1,0 +1,20 @@
+public class Main {
+    public static void main(String[] args) {
+       int array[] = {4,5,6,7,8,9,};
+       printArray(array);
+       double doubleArray[] = {2.9,5.6, 3, 7.89};
+       printArray(doubleArray);
+    }
+    public static void printArray(int[]array){
+        System.out.println("now we are printing int Array");
+        for (int a = 0; a < array.length; a++) {
+            System.out.println(array[a]);
+        }
+    }
+    public static void printArray(double[]array){
+        System.out.println("now we are printing double Array");
+        for (int a = 0; a < array.length; a++) {
+            System.out.println(array[a]);
+        }
+    }
+}
