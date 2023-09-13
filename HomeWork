@@ -6,8 +6,8 @@
 
 4.	Create a class named 'Student' with:
 String variable 'name'
-integer variable 'roll_no'. 
-Assign the value of roll_no as '2' and that of name as "John" by creating an object of the class Student
+integer variable 'ID_number'. 
+Assign the value of ID_number as '2' and that of name as "John" by creating an object of the class Student
 
 5.	create a class named 'Average' having a method to calculate and print the average.
 *etgar:
